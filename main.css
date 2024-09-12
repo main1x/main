@@ -8,7 +8,7 @@
 }
 
 .main-aside {
-    color: Black;
+    color: blue;
  padding: 0px;
  float: left;
  display: flex;
@@ -19,7 +19,7 @@
 }
 
 .container .main-article {
- color: Black;
+ color: orange;
  padding: 20px;
  text-align: center;
  float: top;
