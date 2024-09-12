@@ -1,0 +1,48 @@
+.header,
+.title {
+    color: Black;
+ padding: 25px;
+ margin-right:50px;
+ text-align: center;
+ background-color: burlywood;
+}
+
+.main-aside {
+    color: Black;
+ padding: 0px;
+ float: left;
+ display: flex;
+ flex-direction: column;
+ background-color:darkgray;
+ height: 500px;
+ width: 150px;
+}
+
+.container .main-article {
+ color: Black;
+ padding: 20px;
+ text-align: center;
+ float: top;
+ background-color:red;
+ margin: 20px;
+}
+.container {
+ background-color:green;
+ margin: 20px 30px 50px;
+ height: 500px;
+}
+.container, 
+.main-article {
+ margin-left: 200px;
+ margin-right: 50px;
+}
+
+.footer {
+ color: Black;
+ padding-bottom: 50px;
+ padding: 30px;
+ margin: 20px;
+ text-align: center;
+ float: center;
+ background-color:chartreuse;
+}
